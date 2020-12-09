@@ -33,7 +33,7 @@ $(function(){
         ]
       });
 
-      $('.menu-week1__inner, .menu-week2__inner').slick({
+      $('.menu-week1__inner, .menu-week2__inner, .menu-week3__inner').slick({
         slidesToShow: 1,
         adaptiveHeight: true,
         dots: true,
